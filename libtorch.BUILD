@@ -1,5 +1,5 @@
 cc_library(
-    name = "torch_gpu",
+    name = "torch",
     srcs = [
         "lib/libtorch.so",
         "lib/libc10.so",
